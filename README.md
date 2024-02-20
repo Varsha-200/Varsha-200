@@ -1,16 +1,21 @@
-### Hi there 👋
+<div><br class="Apple-interchange-newline"># About Myself,
 
-<!--
-**Varsha-200/Varsha-200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi!👋 I'm Varsha S Panicker, a B.Tech Computer Science & Engineering student at Saintgits College of Engineering in my 2nd year. I'm passionate about building software solutions and exploring emerging technologies.
 
-Here are some ideas to get you started:
+## Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Programming Languages: Python, Java, C,C++
+* Soft Skills: Teamwork, Communication, Problem-Solving, Presentation Skills
+
+## Interests 🎇
+
+* Machine Learning
+* Web Development
+* Dancing
+* Singing
+
+## Contact ☎️
+
+* LinkedIn: https://www.linkedin.com/in/varsha-s-panicker-81852025a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+
+I'm always looking for new opportunities to learn and collaborate. Feel free to reach out!</div>
