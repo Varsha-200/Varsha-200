@@ -173,6 +173,16 @@ The project explores digital artwork ownership and authenticity verification by 
 
 ---
 
+---
+
+## 📫 Connect With Me
+
+I'm open to connecting with developers, researchers, and technology professionals, and exploring opportunities in **Software Development, AI/ML, and Full-Stack Development**.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varsha%20S%20Panicker-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-s-panicker-81852025a/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Varsha--200-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varsha-200)
+
 ### 🥈 2nd Prize — Code Ninja Web Designing Competition
 
 Won **2nd Prize** in the **Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
