@@ -176,7 +176,7 @@ The project explores digital artwork ownership and authenticity verification by 
 
 ### 🥈 2nd Prize — No Code Ninja Web Designing Competition
 
-Won **2nd Prize** in the **Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
+Won **2nd Prize** in the **No Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
 
 🔗 [View SILVERSCREEN Repository](https://github.com/Varsha-200/SILVERSCREEN-)
 
