@@ -108,3 +108,49 @@ The project combines computer vision, facial emotion analysis, generative AI, an
 [View Repository](https://github.com/Varsha-200/MacroVarnam)
 
 `Python` `Flask` `DeepFace` `OpenCV` `Gemini AI`
+
+---
+
+## 💼 Experience & Internships
+
+### 🤖 Infosys Springboard — Intern
+**Feb 2026 – Apr 2026**
+
+Worked on **AI Health Diagnostics Agent**, an AI-assisted healthcare application designed to extract and analyse health-report parameters and support automated health-risk assessment.
+
+**Project:** [AI Health Diagnostics Agent](https://github.com/Varsha-200/Design-and-Implementation-of-a-Multi-Model-AI-Agent-for-Automated-Health-Diagnostics)
+
+`Python` `Flask` `AI/ML` `OCR` `Data Analysis`
+
+---
+
+### 🌐 Nest Digital Academy — Intern
+**Jun 2025 – Jul 2025**
+
+Developed an **Angular E-Commerce Web Application** while gaining practical experience in component-based frontend development, reusable UI components, routing, and API communication.
+
+**Project:** [Angular E-Commerce Web Application](https://github.com/Varsha-200/Angular-Ecommerce-WebApp)
+
+`Angular` `TypeScript` `HTML` `CSS` `REST API`
+
+---
+
+### 💻 Intel — Intern
+**May 2024 – Jul 2024**
+
+Worked on a **Job Finder Platform**, applying web development concepts to build a platform focused on job discovery and related functionality.
+
+**Project:** [Job Finder Platform](https://github.com/Varsha-200/Job-Finder-Platform)
+
+`Web Development` `Frontend` `Backend`
+
+---
+
+### 💳 Intel — Intern
+**Feb 2024 – Apr 2024**
+
+Worked on a **Credit Card Fraud Detection** project exploring machine-learning techniques for identifying potentially fraudulent credit-card transactions.
+
+**Project:** [Credit Card Fraud Detection](https://github.com/Varsha-200/Credit-Card-Fraud-Detection)
+
+`Python` `Machine Learning` `Data Analysis`
