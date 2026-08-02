@@ -135,7 +135,7 @@ Developed an **Angular E-Commerce Web Application** while gaining practical expe
 
 ---
 
-### 💻 Intel — Intern
+### 💻 Intel Unnati Industrial Training — Intern
 **May 2024 – Jul 2024**
 
 Worked on a **Job Finder Platform**, applying web development concepts to build a platform focused on job discovery and related functionality.
@@ -146,7 +146,7 @@ Worked on a **Job Finder Platform**, applying web development concepts to build 
 
 ---
 
-### 💳 Intel — Intern
+### 💳 Intel Unnati Industrial Training — Intern
 **Feb 2024 – Apr 2024**
 
 Worked on a **Credit Card Fraud Detection** project exploring machine-learning techniques for identifying potentially fraudulent credit-card transactions.
