@@ -42,3 +42,69 @@ verification to full-stack web applications and hackathon solutions.
 ### Other Technologies
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge)
 ![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔐 PixelLedger — Decentralized Watermark Digital Art Ownership
+**B.Tech Final Year Project**
+
+AI-assisted digital artwork ownership and authenticity verification system combining **DWT-based invisible watermarking, blockchain, BLIP image captioning, OCR, perceptual hashing, and tamper detection**.
+
+`Python` `Flask` `Blockchain` `Web3.py` `MongoDB` `OpenCV` `PyTorch` `DWT`
+
+> 🔒 Repository currently private.
+
+---
+
+### 🩺 Multi-Model AI Agent for Automated Health Diagnostics
+
+AI-powered health diagnostics platform designed to extract and analyse blood-report parameters and provide automated health-risk insights.
+
+**Highlights:**
+- Blood report extraction and analysis
+- Automated health parameter interpretation
+- Multi-condition risk identification
+- Interactive Flask-based interface
+- Downloadable diagnostic report
+
+[View Repository](https://github.com/Varsha-200/Design-and-Implementation-of-a-Multi-Model-AI-Agent-for-Automated-Health-Diagnostics)
+
+`Python` `Flask` `AI/ML` `OCR` `Data Analysis`
+
+---
+
+### 🛒 Angular E-Commerce Web Application
+
+Responsive e-commerce application developed during **Angular internship training**, focusing on component-based frontend development and reusable UI architecture.
+
+**Highlights:**
+- Component-based Angular architecture
+- Product browsing interface
+- Routing and navigation
+- Reusable UI components
+- API communication
+
+[View Repository](https://github.com/Varsha-200/Angular-Ecommerce-WebApp)
+
+`Angular` `TypeScript` `HTML` `CSS` `REST API`
+
+---
+
+### 🎭 MacroVarnam — AI-Powered Mood Experience
+
+AI-powered web application that detects a user's facial emotion and generates personalized **food and music recommendations**.
+
+The project combines computer vision, facial emotion analysis, generative AI, and Flask in an interactive web experience.
+
+**Highlights:**
+- Facial emotion recognition
+- AI-generated recommendations
+- Food suggestions based on detected mood
+- Music recommendations
+- Interactive Flask web interface
+
+[View Repository](https://github.com/Varsha-200/MacroVarnam)
+
+`Python` `Flask` `DeepFace` `OpenCV` `Gemini AI`
