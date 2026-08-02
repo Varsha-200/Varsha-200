@@ -24,6 +24,7 @@ verification to full-stack web applications and hackathon solutions.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
@@ -48,17 +49,19 @@ verification to full-stack web applications and hackathon solutions.
 ## 🚀 Featured Projects
 
 ### 🔐 PixelLedger — Decentralized Watermark Digital Art Ownership
-**B.Tech Final Year Project**
+**B.Tech Final Year Project | Published in IEEE Xplore**
 
 AI-assisted digital artwork ownership and authenticity verification system combining **DWT-based invisible watermarking, blockchain, BLIP image captioning, OCR, perceptual hashing, and tamper detection**.
 
+📄 [View IEEE Publication](https://ieeexplore.ieee.org/document/11527717)
+
 `Python` `Flask` `Blockchain` `Web3.py` `MongoDB` `OpenCV` `PyTorch` `DWT`
 
-> 🔒 Repository currently private.
+> 🔒 Source repository currently private.
 
 ---
 
-### 🩺 Multi-Model AI Agent for Automated Health Diagnostics
+### 🩺 AI Health Diagnostics Agent
 
 AI-powered health diagnostics platform designed to extract and analyse blood-report parameters and provide automated health-risk insights.
 
@@ -69,7 +72,7 @@ AI-powered health diagnostics platform designed to extract and analyse blood-rep
 - Interactive Flask-based interface
 - Downloadable diagnostic report
 
-[View Repository](https://github.com/Varsha-200/Design-and-Implementation-of-a-Multi-Model-AI-Agent-for-Automated-Health-Diagnostics)
+[View Repository](https://github.com/Varsha-200/AI-Health-Diagnostics-Agent)
 
 `Python` `Flask` `AI/ML` `OCR` `Data Analysis`
 
@@ -155,8 +158,6 @@ Worked on a **Credit Card Fraud Detection** project exploring machine-learning t
 
 `Python` `Machine Learning` `Data Analysis`
 
-
-
 ---
 
 ## 📚 Publications & Achievements
@@ -173,6 +174,14 @@ The project explores digital artwork ownership and authenticity verification by 
 
 ---
 
+### 🥈 2nd Prize — No Code Ninja Web Designing Competition
+
+Won **2nd Prize** in the **Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
+
+🔗 [View SILVERSCREEN Repository](https://github.com/Varsha-200/SILVERSCREEN-)
+
+`Web Design` `HTML` `CSS` `JavaScript`
+
 ---
 
 ## 📫 Connect With Me
@@ -183,10 +192,3 @@ I'm open to connecting with developers, researchers, and technology professional
 
 [![GitHub](https://img.shields.io/badge/GitHub-Varsha--200-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Varsha-200)
 
-### 🥈 2nd Prize — Code Ninja Web Designing Competition
-
-Won **2nd Prize** in the **Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
-
-🔗 [View SILVERSCREEN Repository](https://github.com/Varsha-200/SILVERSCREEN-)
-
-`Web Design` `HTML` `CSS` `JavaScript`
