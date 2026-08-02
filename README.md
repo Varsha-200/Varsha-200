@@ -154,3 +154,29 @@ Worked on a **Credit Card Fraud Detection** project exploring machine-learning t
 **Project:** [Credit Card Fraud Detection](https://github.com/Varsha-200/Credit-Card-Fraud-Detection)
 
 `Python` `Machine Learning` `Data Analysis`
+
+
+
+---
+
+## 📚 Publications & Achievements
+
+### 📄 IEEE Publication — PixelLedger
+
+Our B.Tech final-year project, **“PIXELLEDGER — Decentralized Watermark Digital Art Ownership,”** was published in **IEEE Xplore**.
+
+The project explores digital artwork ownership and authenticity verification by combining **DWT-based invisible watermarking, blockchain technology, artificial intelligence, and computer vision**.
+
+🔗 [View Publication on IEEE Xplore](https://ieeexplore.ieee.org/document/11527717)
+
+`IEEE` `Blockchain` `Digital Watermarking` `AI` `Computer Vision`
+
+---
+
+### 🥈 2nd Prize — Code Ninja Web Designing Competition
+
+Won **2nd Prize** in the **Code Ninja Web Designing Competition** for **SILVERSCREEN**, a movie-themed web design project developed collaboratively with **Rizia Sara Prabin**.
+
+🔗 [View SILVERSCREEN Repository](https://github.com/Varsha-200/SILVERSCREEN-)
+
+`Web Design` `HTML` `CSS` `JavaScript`
