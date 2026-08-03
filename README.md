@@ -60,7 +60,7 @@ invisible watermarking, blockchain, BLIP, OCR, perceptual hashing, and tamper de
 
 ---
 
-### 🩺 [AI Health Diagnostics Agent](https://github.com/Varsha-200/AI-Health-Diagnostics-Agent)
+### 🩺 [AI Health Diagnostics Agent](https://github.com/Varsha-Panicker/AI-Health-Diagnostics-Agent)
 
 AI-assisted platform for extracting blood-report parameters, interpreting clinical values, 
 identifying health-risk patterns, and generating understandable diagnostic insights.
@@ -69,7 +69,7 @@ identifying health-risk patterns, and generating understandable diagnostic insig
 
 ---
 
-### 🛒 [Angular E-Commerce Web Application](https://github.com/Varsha-200/Angular-Ecommerce-WebApp)
+### 🛒 [Angular E-Commerce Web Application](https://github.com/Varsha-Panicker/Angular-Ecommerce-WebApp)
 
 Responsive e-commerce application developed during internship training using reusable 
 Angular components, routing, product browsing, and API integration.
@@ -78,7 +78,7 @@ Angular components, routing, product browsing, and API integration.
 
 ---
 
-### 🎭 [MacroVarnam — AI-Powered Mood Experience](https://github.com/Varsha-200/MacroVarnam)
+### 🎭 [MacroVarnam — AI-Powered Mood Experience](https://github.com/Varsha-Panicker/MacroVarnam)
 
 AI-powered application combining facial emotion recognition with generative AI to provide 
 personalized food and music recommendations.
@@ -91,26 +91,28 @@ personalized food and music recommendations.
 
 | Organization | Role | Period | Project |
 |---|---|---|---|
-| **Infosys Springboard** | Intern | Feb – Apr 2026 | [AI Health Diagnostics Agent](https://github.com/Varsha-200/AI-Health-Diagnostics-Agent) |
-| **Nest Digital Academy** | Intern | Jun – Jul 2025 | [Angular E-Commerce Web App](https://github.com/Varsha-200/Angular-Ecommerce-WebApp) |
-| **Intel Unnati Industrial Training** | Intern | May – Jul 2024 | [Job Finder Platform](https://github.com/Varsha-200/Job-Finder-Platform) |
-| **Intel Unnati Industrial Training** | Intern | Feb – Apr 2024 | [Credit Card Fraud Detection](https://github.com/Varsha-200/Credit-Card-Fraud-Detection) |
+| **Infosys Springboard** | Intern | Feb – Apr 2026 | [AI Health Diagnostics Agent](https://github.com/Varsha-Panicker/AI-Health-Diagnostics-Agent) |
+| **Nest Digital Academy** | Intern | Jun – Jul 2025 | [Angular E-Commerce Web App](https://github.com/Varsha-Panicker/Angular-Ecommerce-WebApp) |
+| **Intel Unnati Industrial Training** | Intern | May – Jul 2024 | [Job Finder Platform](https://github.com/Varsha-Panicker/Job-Finder-Platform) |
+| **Intel Unnati Industrial Training** | Intern | Feb – Apr 2024 | [Credit Card Fraud Detection](https://github.com/Varsha-Panicker/Credit-Card-Fraud-Detection) |
 
 ---
 
 ## 📚 Publication & Achievement
 
 ### 📄 IEEE Xplore — PixelLedger
+
 B.Tech final-year research on decentralized digital-art ownership verification combining
 **digital watermarking, blockchain, artificial intelligence, and computer vision**.
 
 [**View Publication →**](https://ieeexplore.ieee.org/document/11527717)
 
 ### 🥈 2nd Prize — No Code Ninja Web Designing Competition
+
 Awarded **2nd Prize** for **SILVERSCREEN**, a collaborative movie-themed web design project
 developed with Rizia Sara Prabin.
 
-[**View SILVERSCREEN →**](https://github.com/Varsha-200/SILVERSCREEN-)
+[**View SILVERSCREEN →**](https://github.com/Varsha-Panicker/SILVERSCREEN)
 
 ---
 
@@ -120,7 +122,7 @@ I'm interested in opportunities and collaborations across **Software Development
 and Full-Stack Development**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Varsha%20S%20Panicker-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varsha-s-panicker-81852025a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Varsha--200-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varsha-200)
+[![GitHub](https://img.shields.io/badge/GitHub-Varsha--Panicker-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Varsha-Panicker)
 
 ---
 
